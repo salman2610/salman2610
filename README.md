@@ -2,9 +2,6 @@
 
 ![Banner](banner.svg)
 
-# Salmanul Faris P
-### 🔴 Cybersecurity Engineer · Penetration Tester · Builder
-
 *"Breaking things professionally. Building things obsessively."*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-salmanul--faris-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/p-salmanul-faris-68b733249/)
