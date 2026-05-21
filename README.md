@@ -1,12 +1,12 @@
 <div align="center">
 
 ```
-██████╗ ██╗   ██╗██████╗ ██████╗ ██╗     ███████╗
-██╔══██╗██║   ██║██╔══██╗██╔══██╗██║     ██╔════╝
-██████╔╝██║   ██║██████╔╝██████╔╝██║     █████╗  
-██╔═══╝ ██║   ██║██╔══██╗██╔═══╝ ██║     ██╔══╝  
-██║     ╚██████╔╝██║  ██║██║     ███████╗███████╗
-╚═╝      ╚═════╝ ╚═╝  ╚═╝╚═╝     ╚══════╝╚══════╝
+ ██████╗  █████╗ ██╗      ███╗   ███╗ █████╗ ███╗   ██╗
+██╔════╝ ██╔══██╗██║      ████╗ ████║██╔══██╗████╗  ██║
+╚█████╗  ███████║██║      ██╔████╔██║███████║██╔██╗ ██║
+ ╚═══██╗ ██╔══██║██║      ██║╚██╔╝██║██╔══██║██║╚██╗██║
+██████╔╝ ██║  ██║███████╗ ██║ ╚═╝ ██║██║  ██║██║ ╚████║
+╚═════╝  ╚═╝  ╚═╝╚══════╝ ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
 ```
 
 # Salmanul Faris P
@@ -14,7 +14,7 @@
 
 *"Breaking things professionally. Building things obsessively."*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-salmanul--faris-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/salmanul-faris-68b733249)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-salmanul--faris-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/p-salmanul-faris-68b733249/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-salman2610.github.io-6E40C9?style=for-the-badge&logo=githubpages&logoColor=white)](https://salman2610.github.io)
 [![Email](https://img.shields.io/badge/Email-salmanulfariss642@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salmanulfariss642@gmail.com)
 
@@ -111,11 +111,11 @@ AI-powered server monitoring agent that doesn't just show graphs — it tells yo
 
 <div align="center">
 
-![Salman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=salman2610&show_icons=true&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=BB2649&icon_color=BB2649&text_color=ffffff)
+![Salman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=salman2610&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=BB2649&icon_color=BB2649&text_color=ffffff&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=salman2610&layout=compact&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=BB2649&text_color=ffffff)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=salman2610&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=BB2649&text_color=ffffff&langs_count=8)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=salman2610&theme=dark&hide_border=true&background=0D0D0D&ring=BB2649&fire=BB2649&currStreakLabel=BB2649)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=salman2610&theme=dark&hide_border=true&background=0D0D0D&ring=BB2649&fire=BB2649&currStreakLabel=BB2649)
 
 </div>
 
