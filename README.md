@@ -1,13 +1,6 @@
 <div align="center">
 
-```
- ██████╗  █████╗ ██╗      ███╗   ███╗ █████╗ ███╗   ██╗
-██╔════╝ ██╔══██╗██║      ████╗ ████║██╔══██╗████╗  ██║
-╚█████╗  ███████║██║      ██╔████╔██║███████║██╔██╗ ██║
- ╚═══██╗ ██╔══██║██║      ██║╚██╔╝██║██╔══██║██║╚██╗██║
-██████╔╝ ██║  ██║███████╗ ██║ ╚═╝ ██║██║  ██║██║ ╚████║
-╚═════╝  ╚═╝  ╚═╝╚══════╝ ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
-```
+![Banner](banner.svg)
 
 # Salmanul Faris P
 ### 🔴 Cybersecurity Engineer · Penetration Tester · Builder
@@ -111,11 +104,11 @@ AI-powered server monitoring agent that doesn't just show graphs — it tells yo
 
 <div align="center">
 
-![Salman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=salman2610&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=BB2649&icon_color=BB2649&text_color=ffffff&count_private=true)
+[![Salman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=salman2610&show_icons=true&theme=radical&count_private=true)](https://github.com/salman2610)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=salman2610&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=BB2649&text_color=ffffff&langs_count=8)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=salman2610&layout=compact&theme=radical)](https://github.com/salman2610)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=salman2610&theme=dark&hide_border=true&background=0D0D0D&ring=BB2649&fire=BB2649&currStreakLabel=BB2649)
+[![GitHub Streak](https://streak-stats.demolab.com?user=salman2610&theme=radical)](https://github.com/salman2610)
 
 </div>
 
